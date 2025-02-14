@@ -1,0 +1,86 @@
+{
+  "ad_vitam__official_trailer__netflix_gMmF9uWqzK8": {
+    "total_comments": 89,
+    "sentiment_stats": {
+      "total_analyzed": 89,
+      "sentiment_distribution": {
+        "positive": {
+          "count": 25,
+          "percentage": 28.08988764044944
+        },
+        "neutral": {
+          "count": 40,
+          "percentage": 44.9438202247191
+        },
+        "negative": {
+          "count": 24,
+          "percentage": 26.96629213483146
+        }
+      },
+      "average_confidence": 0.7852385914727543
+    }
+  },
+  "apple_cider_vinegar__official_teaser__netflix_JkpW6cPWIL8": {
+    "total_comments": 169,
+    "sentiment_stats": {
+      "total_analyzed": 169,
+      "sentiment_distribution": {
+        "neutral": {
+          "count": 70,
+          "percentage": 41.42011834319527
+        },
+        "positive": {
+          "count": 50,
+          "percentage": 29.585798816568047
+        },
+        "negative": {
+          "count": 49,
+          "percentage": 28.994082840236686
+        }
+      },
+      "average_confidence": 0.7723851805255257
+    }
+  },
+  "celebrity_bear_hunt__official_trailer__netflix_SdUdDBt2SZ0": {
+    "total_comments": 105,
+    "sentiment_stats": {
+      "total_analyzed": 105,
+      "sentiment_distribution": {
+        "neutral": {
+          "count": 55,
+          "percentage": 52.38095238095239
+        },
+        "positive": {
+          "count": 21,
+          "percentage": 20.0
+        },
+        "negative": {
+          "count": 29,
+          "percentage": 27.61904761904762
+        }
+      },
+      "average_confidence": 0.7350865202290672
+    }
+  },
+  "wish_you_were_here_2025_official_trailer__a_julia_stiles_film_pr_nVsfoUm8": {
+    "total_comments": 167,
+    "sentiment_stats": {
+      "total_analyzed": 167,
+      "sentiment_distribution": {
+        "neutral": {
+          "count": 56,
+          "percentage": 33.532934131736525
+        },
+        "positive": {
+          "count": 72,
+          "percentage": 43.11377245508982
+        },
+        "negative": {
+          "count": 39,
+          "percentage": 23.353293413173652
+        }
+      },
+      "average_confidence": 0.7848756150928086
+    }
+  }
+}

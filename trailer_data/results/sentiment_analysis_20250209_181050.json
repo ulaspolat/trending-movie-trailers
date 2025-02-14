@@ -1,0 +1,94 @@
+{
+  "ad_vitam__official_trailer__netflix_gMmF9uWqzK8": {
+    "total_comments": 90,
+    "sentiment_stats": {
+      "total_analyzed": 180,
+      "sentiment_distribution": {
+        "positive": {
+          "count": 50,
+          "percentage": 27.77777777777778
+        },
+        "neutral": {
+          "count": 82,
+          "percentage": 45.55555555555556
+        },
+        "negative": {
+          "count": 48,
+          "percentage": 26.666666666666668
+        }
+      },
+      "average_confidence": 0.7849214444557826
+    },
+    "last_analyzed": "20250209_181050",
+    "last_comment_date": "2026-01-25T01:00:16Z"
+  },
+  "apple_cider_vinegar__official_teaser__netflix_JkpW6cPWIL8": {
+    "total_comments": 169,
+    "sentiment_stats": {
+      "total_analyzed": 338,
+      "sentiment_distribution": {
+        "positive": {
+          "count": 100,
+          "percentage": 29.585798816568047
+        },
+        "neutral": {
+          "count": 140,
+          "percentage": 41.42011834319527
+        },
+        "negative": {
+          "count": 98,
+          "percentage": 28.994082840236686
+        }
+      },
+      "average_confidence": 0.7723851805255257
+    },
+    "last_analyzed": "20250209_180856",
+    "last_comment_date": "2025-01-15T20:07:46Z"
+  },
+  "celebrity_bear_hunt__official_trailer__netflix_SdUdDBt2SZ0": {
+    "total_comments": 105,
+    "sentiment_stats": {
+      "total_analyzed": 210,
+      "sentiment_distribution": {
+        "positive": {
+          "count": 42,
+          "percentage": 20.0
+        },
+        "neutral": {
+          "count": 110,
+          "percentage": 52.38095238095239
+        },
+        "negative": {
+          "count": 58,
+          "percentage": 27.61904761904762
+        }
+      },
+      "average_confidence": 0.7350865202290672
+    },
+    "last_analyzed": "20250209_180857",
+    "last_comment_date": "2025-01-23T19:47:47Z"
+  },
+  "wish_you_were_here_2025_official_trailer__a_julia_stiles_film_pr_nVsfoUm8": {
+    "total_comments": 168,
+    "sentiment_stats": {
+      "total_analyzed": 335,
+      "sentiment_distribution": {
+        "positive": {
+          "count": 145,
+          "percentage": 43.28358208955223
+        },
+        "neutral": {
+          "count": 112,
+          "percentage": 33.43283582089553
+        },
+        "negative": {
+          "count": 78,
+          "percentage": 23.283582089552237
+        }
+      },
+      "average_confidence": 0.7854177263245654
+    },
+    "last_analyzed": "20250209_180858",
+    "last_comment_date": "2026-12-19T15:02:32Z"
+  }
+}

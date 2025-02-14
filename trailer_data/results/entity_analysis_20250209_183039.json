@@ -1,0 +1,894 @@
+{
+  "ad_vitam__official_trailer__netflix_gMmF9uWqzK8": {
+    "total_comments": 96,
+    "entity_stats": {
+      "total_entities": 38,
+      "most_popular_entities": [
+        {
+          "text": "netflix",
+          "type": "ORG",
+          "count": 4,
+          "percentage": 10.526315789473683
+        },
+        {
+          "text": "adamsandler",
+          "type": "PER",
+          "count": 3,
+          "percentage": 7.894736842105263
+        },
+        {
+          "text": "patrickdempsey",
+          "type": "PER",
+          "count": 3,
+          "percentage": 7.894736842105263
+        },
+        {
+          "text": "french",
+          "type": "MISC",
+          "count": 2,
+          "percentage": 5.263157894736842
+        },
+        {
+          "text": "guillaumecanet",
+          "type": "PER",
+          "count": 2,
+          "percentage": 5.263157894736842
+        },
+        {
+          "text": "btsmix",
+          "type": "MISC",
+          "count": 2,
+          "percentage": 5.263157894736842
+        },
+        {
+          "text": "english",
+          "type": "MISC",
+          "count": 1,
+          "percentage": 2.631578947368421
+        },
+        {
+          "text": "american",
+          "type": "MISC",
+          "count": 1,
+          "percentage": 2.631578947368421
+        },
+        {
+          "text": "franck",
+          "type": "PER",
+          "count": 1,
+          "percentage": 2.631578947368421
+        },
+        {
+          "text": "jamaican",
+          "type": "MISC",
+          "count": 1,
+          "percentage": 2.631578947368421
+        }
+      ],
+      "entity_type_distribution": {
+        "MISC": {
+          "count": 14,
+          "percentage": 36.84210526315789
+        },
+        "ORG": {
+          "count": 8,
+          "percentage": 21.052631578947366
+        },
+        "PER": {
+          "count": 13,
+          "percentage": 34.21052631578947
+        },
+        "LOC": {
+          "count": 3,
+          "percentage": 7.894736842105263
+        }
+      },
+      "entities_by_type": {
+        "MISC": [
+          {
+            "text": "french",
+            "count": 2
+          },
+          {
+            "text": "btsmix",
+            "count": 2
+          },
+          {
+            "text": "english",
+            "count": 1
+          },
+          {
+            "text": "american",
+            "count": 1
+          },
+          {
+            "text": "jamaican",
+            "count": 1
+          },
+          {
+            "text": "murderforsale",
+            "count": 1
+          },
+          {
+            "text": "vitamind",
+            "count": 1
+          },
+          {
+            "text": "filipino",
+            "count": 1
+          },
+          {
+            "text": "ufcbantamweight",
+            "count": 1
+          },
+          {
+            "text": "tokyorevengerss3",
+            "count": 1
+          }
+        ],
+        "ORG": [
+          {
+            "text": "netflix",
+            "count": 4
+          },
+          {
+            "text": "para",
+            "count": 1
+          },
+          {
+            "text": "vai",
+            "count": 1
+          },
+          {
+            "text": "générationdewokist",
+            "count": 1
+          },
+          {
+            "text": "bãodemais",
+            "count": 1
+          },
+          {
+            "text": "advitamin",
+            "count": 1
+          }
+        ],
+        "PER": [
+          {
+            "text": "adamsandler",
+            "count": 3
+          },
+          {
+            "text": "patrickdempsey",
+            "count": 3
+          },
+          {
+            "text": "guillaumecanet",
+            "count": 2
+          },
+          {
+            "text": "franck",
+            "count": 1
+          },
+          {
+            "text": "harrykane",
+            "count": 1
+          },
+          {
+            "text": "dereksheppard",
+            "count": 1
+          },
+          {
+            "text": "grey",
+            "count": 1
+          },
+          {
+            "text": "javiercamara",
+            "count": 1
+          }
+        ],
+        "LOC": [
+          {
+            "text": "hollywood",
+            "count": 1
+          },
+          {
+            "text": "france",
+            "count": 1
+          },
+          {
+            "text": "vendetta",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "last_analyzed": "20250209_183033",
+    "last_comment_date": "2025-02-02T14:18:08Z"
+  },
+  "apple_cider_vinegar__official_teaser__netflix_JkpW6cPWIL8": {
+    "total_comments": 173,
+    "entity_stats": {
+      "total_entities": 181,
+      "most_popular_entities": [
+        {
+          "text": "kaitlyndever",
+          "type": "PER",
+          "count": 24,
+          "percentage": 13.259668508287293
+        },
+        {
+          "text": "australian",
+          "type": "MISC",
+          "count": 14,
+          "percentage": 7.734806629834254
+        },
+        {
+          "text": "bellegibson",
+          "type": "PER",
+          "count": 13,
+          "percentage": 7.18232044198895
+        },
+        {
+          "text": "netflix",
+          "type": "ORG",
+          "count": 10,
+          "percentage": 5.524861878453039
+        },
+        {
+          "text": "aussie",
+          "type": "MISC",
+          "count": 6,
+          "percentage": 3.314917127071823
+        },
+        {
+          "text": "australia",
+          "type": "LOC",
+          "count": 5,
+          "percentage": 2.7624309392265194
+        },
+        {
+          "text": "dave",
+          "type": "PER",
+          "count": 4,
+          "percentage": 2.209944751381215
+        },
+        {
+          "text": "dever",
+          "type": "PER",
+          "count": 4,
+          "percentage": 2.209944751381215
+        },
+        {
+          "text": "emily",
+          "type": "PER",
+          "count": 3,
+          "percentage": 1.6574585635359116
+        },
+        {
+          "text": "miller",
+          "type": "PER",
+          "count": 3,
+          "percentage": 1.6574585635359116
+        }
+      ],
+      "entity_type_distribution": {
+        "MISC": {
+          "count": 60,
+          "percentage": 33.14917127071823
+        },
+        "PER": {
+          "count": 95,
+          "percentage": 52.48618784530387
+        },
+        "LOC": {
+          "count": 12,
+          "percentage": 6.629834254143646
+        },
+        "ORG": {
+          "count": 14,
+          "percentage": 7.734806629834254
+        }
+      },
+      "entities_by_type": {
+        "MISC": [
+          {
+            "text": "australian",
+            "count": 14
+          },
+          {
+            "text": "aussie",
+            "count": 6
+          },
+          {
+            "text": "american",
+            "count": 3
+          },
+          {
+            "text": "australians",
+            "count": 2
+          },
+          {
+            "text": "british",
+            "count": 2
+          },
+          {
+            "text": "notokay",
+            "count": 1
+          },
+          {
+            "text": "theadventuresof",
+            "count": 1
+          },
+          {
+            "text": "inventing",
+            "count": 1
+          },
+          {
+            "text": "holy",
+            "count": 1
+          },
+          {
+            "text": "ad",
+            "count": 1
+          }
+        ],
+        "PER": [
+          {
+            "text": "kaitlyndever",
+            "count": 24
+          },
+          {
+            "text": "bellegibson",
+            "count": 13
+          },
+          {
+            "text": "dave",
+            "count": 4
+          },
+          {
+            "text": "dever",
+            "count": 4
+          },
+          {
+            "text": "emily",
+            "count": 3
+          },
+          {
+            "text": "miller",
+            "count": 3
+          },
+          {
+            "text": "anna",
+            "count": 3
+          },
+          {
+            "text": "scamanda",
+            "count": 2
+          },
+          {
+            "text": "evanhansen",
+            "count": 2
+          },
+          {
+            "text": "kaitlyn",
+            "count": 2
+          }
+        ],
+        "LOC": [
+          {
+            "text": "australia",
+            "count": 5
+          },
+          {
+            "text": "magic",
+            "count": 1
+          },
+          {
+            "text": "tiktok",
+            "count": 1
+          },
+          {
+            "text": "france",
+            "count": 1
+          },
+          {
+            "text": "youtube",
+            "count": 1
+          },
+          {
+            "text": "worldtradecenter",
+            "count": 1
+          },
+          {
+            "text": "uk",
+            "count": 1
+          }
+        ],
+        "ORG": [
+          {
+            "text": "netflix",
+            "count": 10
+          },
+          {
+            "text": "applecidervinegar",
+            "count": 3
+          },
+          {
+            "text": "apple",
+            "count": 2
+          },
+          {
+            "text": "ngl",
+            "count": 1
+          },
+          {
+            "text": "60minutes",
+            "count": 1
+          },
+          {
+            "text": "babyreindeer",
+            "count": 1
+          },
+          {
+            "text": "catalina",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "last_analyzed": "20250209_183035",
+    "last_comment_date": "2025-02-08T05:18:27Z"
+  },
+  "celebrity_bear_hunt__official_trailer__netflix_SdUdDBt2SZ0": {
+    "total_comments": 147,
+    "entity_stats": {
+      "total_entities": 137,
+      "most_popular_entities": [
+        {
+          "text": "melb",
+          "type": "PER",
+          "count": 13,
+          "percentage": 9.48905109489051
+        },
+        {
+          "text": "bear",
+          "type": "PER",
+          "count": 11,
+          "percentage": 8.02919708029197
+        },
+        {
+          "text": "netflix",
+          "type": "ORG",
+          "count": 9,
+          "percentage": 6.569343065693431
+        },
+        {
+          "text": "mel",
+          "type": "PER",
+          "count": 6,
+          "percentage": 4.37956204379562
+        },
+        {
+          "text": "british",
+          "type": "MISC",
+          "count": 5,
+          "percentage": 3.64963503649635
+        },
+        {
+          "text": "uk",
+          "type": "LOC",
+          "count": 4,
+          "percentage": 2.9197080291970803
+        },
+        {
+          "text": "borisbecker",
+          "type": "PER",
+          "count": 4,
+          "percentage": 2.9197080291970803
+        },
+        {
+          "text": "americans",
+          "type": "MISC",
+          "count": 3,
+          "percentage": 2.18978102189781
+        },
+        {
+          "text": "spicegirls",
+          "type": "ORG",
+          "count": 2,
+          "percentage": 1.4598540145985401
+        },
+        {
+          "text": "beargrylls",
+          "type": "PER",
+          "count": 2,
+          "percentage": 1.4598540145985401
+        }
+      ],
+      "entity_type_distribution": {
+        "MISC": {
+          "count": 27,
+          "percentage": 19.708029197080293
+        },
+        "LOC": {
+          "count": 7,
+          "percentage": 5.109489051094891
+        },
+        "PER": {
+          "count": 82,
+          "percentage": 59.854014598540154
+        },
+        "ORG": {
+          "count": 21,
+          "percentage": 15.328467153284672
+        }
+      },
+      "entities_by_type": {
+        "MISC": [
+          {
+            "text": "british",
+            "count": 5
+          },
+          {
+            "text": "americans",
+            "count": 3
+          },
+          {
+            "text": "american",
+            "count": 1
+          },
+          {
+            "text": "wimbledonmensingles",
+            "count": 1
+          },
+          {
+            "text": "english",
+            "count": 1
+          },
+          {
+            "text": "strictlycomedancing",
+            "count": 1
+          },
+          {
+            "text": "dancingwiththestars",
+            "count": 1
+          },
+          {
+            "text": "doctorwho",
+            "count": 1
+          },
+          {
+            "text": "strangerthings",
+            "count": 1
+          },
+          {
+            "text": "newcomercelebrity",
+            "count": 1
+          }
+        ],
+        "LOC": [
+          {
+            "text": "uk",
+            "count": 4
+          },
+          {
+            "text": "hollywood",
+            "count": 1
+          },
+          {
+            "text": "america",
+            "count": 1
+          },
+          {
+            "text": "dachoppa",
+            "count": 1
+          }
+        ],
+        "PER": [
+          {
+            "text": "melb",
+            "count": 13
+          },
+          {
+            "text": "bear",
+            "count": 11
+          },
+          {
+            "text": "mel",
+            "count": 6
+          },
+          {
+            "text": "borisbecker",
+            "count": 4
+          },
+          {
+            "text": "beargrylls",
+            "count": 2
+          },
+          {
+            "text": "bigzuu",
+            "count": 2
+          },
+          {
+            "text": "leomieanderson",
+            "count": 2
+          },
+          {
+            "text": "una",
+            "count": 2
+          },
+          {
+            "text": "hollywilloughby",
+            "count": 2
+          },
+          {
+            "text": "grylls",
+            "count": 2
+          }
+        ],
+        "ORG": [
+          {
+            "text": "netflix",
+            "count": 9
+          },
+          {
+            "text": "spicegirls",
+            "count": 2
+          },
+          {
+            "text": "celebrities",
+            "count": 1
+          },
+          {
+            "text": "bbc",
+            "count": 1
+          },
+          {
+            "text": "channel4",
+            "count": 1
+          },
+          {
+            "text": "bigeats",
+            "count": 1
+          },
+          {
+            "text": "gtfoh",
+            "count": 1
+          },
+          {
+            "text": "itv",
+            "count": 1
+          },
+          {
+            "text": "navyseals",
+            "count": 1
+          },
+          {
+            "text": "navyseal",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "last_analyzed": "20250209_183037",
+    "last_comment_date": "2025-02-09T12:41:59Z"
+  },
+  "wish_you_were_here_2025_official_trailer__a_julia_stiles_film_pr_nVsfoUm8": {
+    "total_comments": 187,
+    "entity_stats": {
+      "total_entities": 126,
+      "most_popular_entities": [
+        {
+          "text": "esther",
+          "type": "PER",
+          "count": 15,
+          "percentage": 11.904761904761903
+        },
+        {
+          "text": "aladdin",
+          "type": "PER",
+          "count": 14,
+          "percentage": 11.11111111111111
+        },
+        {
+          "text": "orphan",
+          "type": "LOC",
+          "count": 12,
+          "percentage": 9.523809523809524
+        },
+        {
+          "text": "juliastiles",
+          "type": "PER",
+          "count": 11,
+          "percentage": 8.73015873015873
+        },
+        {
+          "text": "menamassoud",
+          "type": "PER",
+          "count": 6,
+          "percentage": 4.761904761904762
+        },
+        {
+          "text": "julia",
+          "type": "PER",
+          "count": 4,
+          "percentage": 3.1746031746031744
+        },
+        {
+          "text": "isabellefuhrman",
+          "type": "PER",
+          "count": 4,
+          "percentage": 3.1746031746031744
+        },
+        {
+          "text": "kelseygrammer",
+          "type": "PER",
+          "count": 2,
+          "percentage": 1.5873015873015872
+        },
+        {
+          "text": "orphanfirstkill",
+          "type": "MISC",
+          "count": 2,
+          "percentage": 1.5873015873015872
+        },
+        {
+          "text": "god",
+          "type": "PER",
+          "count": 2,
+          "percentage": 1.5873015873015872
+        }
+      ],
+      "entity_type_distribution": {
+        "PER": {
+          "count": 79,
+          "percentage": 62.698412698412696
+        },
+        "ORG": {
+          "count": 5,
+          "percentage": 3.968253968253968
+        },
+        "MISC": {
+          "count": 31,
+          "percentage": 24.6031746031746
+        },
+        "LOC": {
+          "count": 11,
+          "percentage": 8.73015873015873
+        }
+      },
+      "entities_by_type": {
+        "PER": [
+          {
+            "text": "esther",
+            "count": 15
+          },
+          {
+            "text": "aladdin",
+            "count": 14
+          },
+          {
+            "text": "juliastiles",
+            "count": 11
+          },
+          {
+            "text": "menamassoud",
+            "count": 6
+          },
+          {
+            "text": "julia",
+            "count": 4
+          },
+          {
+            "text": "isabellefuhrman",
+            "count": 4
+          },
+          {
+            "text": "kelseygrammer",
+            "count": 2
+          },
+          {
+            "text": "god",
+            "count": 2
+          },
+          {
+            "text": "jennifergrey",
+            "count": 2
+          },
+          {
+            "text": "dez",
+            "count": 1
+          }
+        ],
+        "ORG": [
+          {
+            "text": "omgsocialengineering",
+            "count": 1
+          },
+          {
+            "text": "lionsgatemovies",
+            "count": 1
+          },
+          {
+            "text": "lionsgate",
+            "count": 1
+          },
+          {
+            "text": "michael",
+            "count": 1
+          }
+        ],
+        "MISC": [
+          {
+            "text": "orphanfirstkill",
+            "count": 2
+          },
+          {
+            "text": "[unk]",
+            "count": 2
+          },
+          {
+            "text": "savethelastdance",
+            "count": 1
+          },
+          {
+            "text": "breastcanser",
+            "count": 1
+          },
+          {
+            "text": "c",
+            "count": 1
+          },
+          {
+            "text": "computerscience",
+            "count": 1
+          },
+          {
+            "text": "blueface",
+            "count": 1
+          },
+          {
+            "text": "theorphan[unk]",
+            "count": 1
+          },
+          {
+            "text": "thebigsick’",
+            "count": 1
+          },
+          {
+            "text": "awalktoremember",
+            "count": 1
+          }
+        ],
+        "LOC": [
+          {
+            "text": "orphan",
+            "count": 12
+          },
+          {
+            "text": "hollywood",
+            "count": 2
+          },
+          {
+            "text": "uk",
+            "count": 2
+          },
+          {
+            "text": "germany",
+            "count": 1
+          },
+          {
+            "text": "india",
+            "count": 1
+          },
+          {
+            "text": "australia",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "last_analyzed": "20250209_183039",
+    "last_comment_date": "2025-02-09T12:00:44Z"
+  }
+}
