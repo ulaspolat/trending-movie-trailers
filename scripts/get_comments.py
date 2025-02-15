@@ -16,7 +16,7 @@ logging.basicConfig(
 )
 
 # YouTube API configuration
-API_KEY = 'AIzaSyD1crl0SKE08IeH_D4of5IKjZsQaGMtt1o'
+API_KEY = 'your-api-key'
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
